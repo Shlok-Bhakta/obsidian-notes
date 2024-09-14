@@ -1,0 +1,7 @@
+- [[Bill of Rights]] 
+	- British common law tradition
+	- originally applied only to federal [[Laws]] 
+	- 14th amendmant gradually extended to state laws (progressive era)
+- General Expansion of free speech and expression
+	- gradual removal of state [[Laws]] restrictiong press and obcenity
+- General  Restriction of Free Speech and Expression 

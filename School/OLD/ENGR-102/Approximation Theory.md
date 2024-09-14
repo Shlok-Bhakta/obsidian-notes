@@ -1,0 +1,2 @@
+#unfinished 
+studies how to find the best approximation to a given [[Function]] by another [[Function]] from some predetermined class, and how good this approximation is. This clearly yields a bound on how well the interpolant can approximate the unknown [[Function]].

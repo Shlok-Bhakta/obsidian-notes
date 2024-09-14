@@ -1,0 +1,12 @@
+# 1932-1980
+- Voluntary Nature
+	- artifact of dual sovereignty federalism
+- Popular Spending Programs: 
+	- Tennessee Valley Authority
+	- Interstate Highway
+	- Construction
+- 14th amendment [[Court Case]] 
+	- Brown v. Board of Education
+	- significant national influence in formerly state regulated activities.
+- 1960s-70s: Unfunded mandates; money was gone but influence still existing
+- Public Backlash: Regan Revolution (1980)

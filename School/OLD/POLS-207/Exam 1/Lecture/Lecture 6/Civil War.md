@@ -1,0 +1,9 @@
+- Most Profound [[Political]] Event in American History since [[Constitutional]] Ratification
+- Why the Killing started:
+	- Lincoln's political will; wanted a true national state
+- North had large material advantage; South had better generals
+- War of Attrition
+	- ran South out of ammunition 
+	- more than one million casualties
+- Result 
+	- End of Dual Sovereignty [[Federalism]] 

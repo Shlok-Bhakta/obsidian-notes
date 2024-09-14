@@ -1,0 +1,16 @@
+- long history
+	- 400 BC - 1800 AD (at least)
+- Highly Subjective
+	- schools of interpretation
+- Cicero
+	- tried to extend the [[Political]] ideas of [[Plato]] and [[Aristotle]] to the Roman Empire (Natural [[Laws]] )
+	- problems of large, centralized polities
+- Christian Revolution of Classical World:
+	- Theological [[virtue]]  (faith, hope love)
+	- added to cardinal [[virtue]] ([[Prudence]], [[Temperance]], [[Courage]], [[Justice]])
+	- eternal happiness (beatitude)
+	- civilization of love (similar to family)
+	- Effects
+		- Gradual reduction of slavery
+		- growth of middle classical 
+		- increased status of women

@@ -1,0 +1,5 @@
+- Decentralized
+- Inefficient (intentional)
+- Limited
+- Partisan: Republican
+- Cult of Personality (Governors)

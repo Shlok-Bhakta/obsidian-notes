@@ -1,0 +1,10 @@
+- [[Constitution]]alism:
+	- state [[Constitution]]s pre-dated US [[Constitution]]; used as model for US [[Constitution]] 
+- State constitutions much longer; have to specify much more than US [[Constitution]]
+- [[Constitution]]al Change:
+	- [[State Constitutions]]  much easier to change than US [[Constitution]]; 
+	- many amendments; 
+	- most states have had several [[Constitution]]s
+- Purpose:
+	- Specify the state institutions
+	- Framework for state code, statutes, local governments

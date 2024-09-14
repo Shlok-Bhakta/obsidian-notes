@@ -1,0 +1,1 @@
+The science of finding the best way for a non-blood related Group of people to live together under a shared conception of the good human life

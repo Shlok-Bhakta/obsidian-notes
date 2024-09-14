@@ -1,0 +1,1 @@
+an [[ion]] carries a negative charge

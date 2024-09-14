@@ -1,0 +1,17 @@
+- Party system transition
+	- Republicans
+	- Northern and Southern Democrats
+	- [[Constitutional]] Union Party 
+- Candidates 
+	- Lincoln (abolitionist)
+	- Douglas (non-slaveholder agnostic on slavery)
+	- Breckenridge (pro-slavery expansion)
+	- Bell (slaveholder opposed to slavery expansion)
+- High turnout
+	- Lincoln won fairly easily in Electoral College 
+	- North had more electors
+- Purely Regional Voting
+	- Lincoln (not on ballot in South) swept North 
+		- Oregon
+		- California
+	- Douglas won only missouri

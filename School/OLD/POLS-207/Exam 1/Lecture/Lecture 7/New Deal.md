@@ -1,0 +1,3 @@
+- Explosion of laws, institutions, and agencies of a unitary state made possible by 16th amendment (National Income Tax)
+- Lincoln part 2
+- Rich states v. Poor States: National Welfare State 

@@ -1,0 +1,3 @@
+- Individualistic
+- Short [[Constitution]] 
+- mix Democratic/Republican 

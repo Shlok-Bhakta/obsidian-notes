@@ -1,0 +1,11 @@
+- All Government is Local:
+	- Aristotle's argument
+	- centralization and consolidation of more than one polity always contains an element of [[Tyranny]]  and oppression
+	- state are unitary and have plenary power over local governments
+- Most Ubiquitous (90,000 + national; 5,000 +Texas)
+- Site of nearly all public administration
+- Counties and Municipalities
+- Special districts
+	- schools 
+	- utilities
+	- etc

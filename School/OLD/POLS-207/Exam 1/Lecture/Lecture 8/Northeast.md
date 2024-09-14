@@ -1,0 +1,6 @@
+- Urban 
+- Liberal 
+- Moralistic 
+- Egalitarian
+- long [[Constitution]] 
+- Strongly Democratic

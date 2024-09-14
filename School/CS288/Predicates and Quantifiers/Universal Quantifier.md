@@ -1,0 +1,6 @@
+```COPY
+∀
+```
+
+# Definition
+#copySlides 

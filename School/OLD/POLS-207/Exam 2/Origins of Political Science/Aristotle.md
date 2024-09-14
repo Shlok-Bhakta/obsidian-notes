@@ -1,0 +1,15 @@
+- Inductive Approach: observations to universals
+- Scientific method
+- Survey of constitutions: search for best institutions for each circumstance:
+	- taxonomy of [[virtue]]ous and [[Vicious Government]]s 
+- Citizenship 
+	- ruling and being ruled
+	- difference with family interaction
+	- customs v [[Laws]] 
+	- Virtue and happiness
+- [[Polity]] 
+	- mixed [[Constitution]] 
+	- practical 
+	- less ambitious than [[Plato]] 
+	- [[Justice]] (harmony)
+	- remains goal

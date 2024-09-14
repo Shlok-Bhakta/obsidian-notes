@@ -1,0 +1,5 @@
+- origin and methods of [[Political Science]] 
+	- [[Plato]]  and [[Aristotle]]  
+	- moral ethical philosophical study
+- modern Scientific political science 
+	- attempt to use the methods of physical sciences to understand social phenomena

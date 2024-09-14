@@ -1,0 +1,1 @@
+spend years in rural areas helping local people construct a written language from their spoken language 

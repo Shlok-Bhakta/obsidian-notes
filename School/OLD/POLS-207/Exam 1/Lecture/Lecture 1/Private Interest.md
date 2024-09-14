@@ -1,0 +1,5 @@
+- Personal gain
+- Personal security
+- private groups
+- businesses
+- families 

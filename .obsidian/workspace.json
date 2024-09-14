@@ -1,0 +1,313 @@
+{
+  "main": {
+    "id": "fb24b3b03b1c8664",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfaefb656c224732",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c42c00c7066b598d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Test Blog.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b0ff1442e592226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Test Blog.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40b17091399271c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Setting Up My CI-CD Pipeline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e972055b01de1cfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Projects/Pirate Software Game Jam 14.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "845ce236b0d95d48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyTechDocs/Linux/Change Permission.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05ad6f3e93cf2a5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "428fb7f408a8f653",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c4ce896c1016da8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59339373eb6cdaf8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#broken",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b2329becc4f43b9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "22fed7087c5a5dee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5
+  },
+  "right": {
+    "id": "378c0c4606cba86c",
+    "type": "split",
+    "children": [
+      {
+        "id": "53a731c91f507528",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08e88e90e82a2e1d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "580c3f42f1532f80",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "228e6a51515a614e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "85e04a164e950405",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "c95957e03921d6d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ba0e613ed3e047e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MyTechDocs/Linux/Change Permission.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37895b7ff5e72d15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MyTechDocs/Linux/Change Permission.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b5aca82f343da88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7a2a1075d28e25fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MyTechDocs/Linux/Change Permission.md"
+              }
+            }
+          },
+          {
+            "id": "7e317da62a81baed",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "845ce236b0d95d48",
+  "lastOpenFiles": [
+    "MyTechDocs/Windows/Windows Sanbox.md",
+    "MyTechDocs/MacOS VM.md",
+    "Build-A-Rocket/Friday 10-19-2023 Meeting Notes.md",
+    "Blog/Test Blog.md",
+    "Blog/Setting Up My CI-CD Pipeline.md",
+    "Blog/My Website.md",
+    "Blog/Projects/Pirate Software Game Jam 14.md",
+    "MyTechDocs/OracleMC/Setup Firewall Rules.md",
+    "Blog/Projects",
+    "MyTechDocs/Docker 🚢/Services 🔧/Cloudflared.md",
+    "MyTechDocs/Docker 🚢/Install Docker.md",
+    "MyTechDocs/Docker 🚢/Services 🔧/Dockge.md",
+    "MyTechDocs/Docker 🚢/Services 🔧/Portainer.md",
+    "MyTechDocs/Docker 🚢/Docker Compose.md",
+    "MyTechDocs/Docker 🚢/Services 🔧/Gitlab.md",
+    "MyTechDocs/Docker 🚢/Services 🔧/Gluetun.md",
+    "MyTechDocs/Docker 🚢/Services 🔧/Nextcloud.md",
+    "School/CS288/Predicates and Quantifiers/Propositional Function.md",
+    "Blog",
+    "School/CS288/Predicates and Quantifiers/Predicate.md",
+    "School/CS288/Predicates and Quantifiers/Existential Quantifier.md",
+    "School/LinALG/Linear Equation.md",
+    "Build-A-Rocket/Friday 10-27-23 Meeting Notes.md",
+    "LeetcodePractice/0005-longest-palindromic-substring/README.md",
+    "LeetcodePractice/0006-zigzag-conversion/README.md",
+    "LeetcodePractice/README.md",
+    "LeetcodePractice/3056-determine-if-a-cell-is-reachable-at-a-given-time/README.md",
+    "LeetcodePractice/3056-determine-if-a-cell-is-reachable-at-a-given-time/3056-determine-if-a-cell-is-reachable-at-a-given-time.py",
+    "LeetcodePractice/3056-determine-if-a-cell-is-reachable-at-a-given-time",
+    "LeetcodePractice/2966-divide-array-into-arrays-with-max-difference/README.md",
+    "LeetcodePractice/2966-divide-array-into-arrays-with-max-difference/2966-divide-array-into-arrays-with-max-difference.py",
+    "LeetcodePractice/2966-divide-array-into-arrays-with-max-difference",
+    "LeetcodePractice/2808-painting-the-walls/2808-painting-the-walls.py",
+    "LeetcodePractice/2808-painting-the-walls",
+    "LeetcodePractice/2519-find-the-original-array-of-prefix-xor/2519-find-the-original-array-of-prefix-xor.py",
+    "LeetcodePractice/2519-find-the-original-array-of-prefix-xor",
+    "Images/Slope of a Curve Example 2.png",
+    "Images/Pasted image 20220922152222.png",
+    "Images/Pasted image 20220906175710.png",
+    "Images/Pasted image 20220906163300.png",
+    "Images/Pasted image 20220830114100.png",
+    "Images/Pasted image 20220830114113.png",
+    "Images 🖼️/Pasted image 20230412153226.png",
+    "Images 🖼️/Pasted image 20230412153408.png",
+    "Images 🖼️/Pasted image 20230412153852.png"
+  ]
+}

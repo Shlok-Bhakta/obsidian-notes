@@ -1,0 +1,1 @@
+## The vicious rule of the rich few in their [[Private Interest]] against the poor

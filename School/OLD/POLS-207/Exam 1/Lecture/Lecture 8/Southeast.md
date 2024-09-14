@@ -1,0 +1,5 @@
+- Rural 
+- Conservative
+- Traditionalistic 
+- Hierarchical
+- Strongly Republican

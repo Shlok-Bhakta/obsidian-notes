@@ -1,0 +1,14 @@
+# 1980-Today?
+- mostly Rhetorical: 
+	- federal tax rates went down
+	- federal spending did not
+	- Permanent deficits even with increased tax revenues
+- Block Grants:
+	- money continued to flow to states; less strings
+- Members of Congress judged on bring home federal spending 
+- Some reforms:
+	- welfare
+- Dominant National [[Federalism]] Remains:
+	- TSA (yes, the stupid airport people)
+	- ObamaCare
+	- etc.

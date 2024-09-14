@@ -1,0 +1,5 @@
+- Stability
+- Security
+- Equity
+- [[Justice]] 
+- Lasting

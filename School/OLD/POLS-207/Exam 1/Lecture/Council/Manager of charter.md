@@ -1,0 +1,14 @@
+- most used in Texas by home rule cities (385 cities)
+	- Dallas
+	- San Antonio
+	- etc.
+	- more than 5000 population
+- voters elect city council and mayor
+	- mostly limited to procedural powers
+	- council and mayor set policy
+- City Manager
+	- hired by council and mayor 
+	- appoints department heads and oversees public administration
+	- usually has professional training
+		- public administrations degree
+- efficient and nonpartisan

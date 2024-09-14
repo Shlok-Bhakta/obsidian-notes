@@ -1,0 +1,12 @@
+- Deductive Approach
+- Universal Forms/Ideas 
+	- Eternal ideas have greater reality than the visible world
+- Kallipolis
+	- best city
+	- strange features
+	- similar to family
+- Philosopher - Kings
+	- those with the greatest knowledge of the forms/Ideas 
+	- wisdom
+- [[Justice]] as harmony of the soul and city
+- produced by wisdom

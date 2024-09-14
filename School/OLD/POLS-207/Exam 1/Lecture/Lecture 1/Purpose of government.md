@@ -1,0 +1,10 @@
+- Legitimate use of Force
+- Security - both againt internal and external threats
+- Public administration of goods and services 
+	- Drivers license
+	- Road
+	- Schools
+- Proliferation of Justice
+- Protection of Private property
+- Legal Uniformity (laws to be applied equally)
+- promote the [[Public Good]]

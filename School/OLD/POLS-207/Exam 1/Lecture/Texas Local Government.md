@@ -1,0 +1,19 @@
+[[Local Government]] 
+- 254 Counties
+- Texas Counties 
+	- presided over by county judge and county commissioner's court (at large partisan election)
+	- rural friendly
+	- unprofessional
+	- very limited authority
+	- sheriff
+	- district attorney
+	- county clerk
+	- tax assessor/collector
+	- district clerk 
+	- county clerk 
+	- county treasurer
+- Texas Municipal Government (1200+) 
+	- Three Types 
+		- [[Weak Mayor]]
+		- [[Strong Mayor ]]
+		- [[Manager of charter]]

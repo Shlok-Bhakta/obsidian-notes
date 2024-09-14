@@ -1,0 +1,1 @@
+worldwide intensification of interactions and increased movement of money, people, goods, and ideas within and across national borders. 

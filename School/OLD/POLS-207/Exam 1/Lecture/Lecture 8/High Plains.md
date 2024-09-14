@@ -1,0 +1,2 @@
+- Individualistic and moralistic
+- mostly Republican 

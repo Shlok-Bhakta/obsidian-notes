@@ -1,0 +1,5 @@
+- Instability
+- Oppression
+- Insecurity
+- Gross Inequity/Injustice
+- Short Lived

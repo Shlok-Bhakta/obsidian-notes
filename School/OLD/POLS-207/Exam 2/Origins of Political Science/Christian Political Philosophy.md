@@ -1,0 +1,18 @@
+- Augustine 
+	- (c. AD 300)
+	- City of God/City of Man
+	- Christians owe obedience to rulers ad blesses the virtuous
+	- Rome fell due to lack of virtue (cicero's warning)
+- Aquinas 
+	- (c AD 1200)
+	- Summa Theologiae 
+	- natural [[Laws]]  (Christian update of cicero)
+	- Christian kingship
+	- full synthesis of christian [[Political]] philosophy
+	- [[Politics]] supports mission of the church
+- Luther/Calvin/Hooker
+	- Break with papacy
+	- retained as much as possible of Christian [[Political]] Philosophy 
+	- Reformation
+	- Wars of Religion
+	- privatization of religion (return of secular [[Politics]])

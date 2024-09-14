@@ -1,0 +1,9 @@
+- plato and Aristotle
+- [[Political]] Philosophy
+	- Knowlege of the best way to live
+	- best institutions for the good human life
+- Polis
+	- site of human perfection ([[virtue]]) 
+	- administration of [[Justice]] 
+- Ethics and morality
+- Highest Science

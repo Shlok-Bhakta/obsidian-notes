@@ -1,0 +1,1 @@
+[[Anthropology]]'s commitment to look at the whole picture of human life

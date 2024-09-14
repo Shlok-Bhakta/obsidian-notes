@@ -1,0 +1,73 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": "#ffffff",
+    "recentlyUsedIcons": [
+      "SiNextcloud",
+      "SiPenpot",
+      "SiWindowsxp",
+      "BoBxsDashboard",
+      "RiDashboardFill"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "icon": "SiPocketbase",
+        "rule": "MyTechDocs/Docker 🚢/Services 🔧/Pocketbase.md\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      },
+      {
+        "icon": "IbDashboard",
+        "rule": "MyTechDocs/Docker 🚢/Services 🔧/Homarr.md\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 1,
+        "useFilePath": true
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": true,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "MyTechDocs/Docker 🚢/Services 🔧/Cloudflared.md": "SiCloudflare",
+  "MyTechDocs/Docker 🚢/Services 🔧/Dockge.md": "SiDocker",
+  "MyTechDocs/Docker 🚢/Services 🔧/Gitlab.md": "SiGit",
+  "MyTechDocs/Docker 🚢/Services 🔧/Heimdall.md": "RiDashboardFill",
+  "MyTechDocs/Docker 🚢/Services 🔧/Home Assistant.md": "SiHomeassistant",
+  "MyTechDocs/Docker 🚢/Services 🔧/Jellyfin.md": "SiJellyfin",
+  "MyTechDocs/Docker 🚢/Services 🔧/Nginx Proxy Manager.md": "SiNginxproxymanager",
+  "MyTechDocs/Docker 🚢/Services 🔧/Node Red.md": "SiNodered",
+  "MyTechDocs/Docker 🚢/Services 🔧/Pihole.md": "SiPihole",
+  "MyTechDocs/Docker 🚢/Services 🔧/Portainer.md": "SiPortainer",
+  "MyTechDocs/Docker 🚢/Services 🔧/Tailscale.md": "SiOpenvpn",
+  "MyTechDocs/Docker 🚢/Services 🔧/Webtop.md": "SiLinux",
+  "MyTechDocs/Docker 🚢/Services 🔧/Gluetun.md": "SiOpenvpn",
+  "MyTechDocs/Docker 🚢/Services 🔧/qBittorrent.md": "SiTorproject",
+  "MyTechDocs/Docker 🚢/Install Docker.md": "SiDocker",
+  "MyTechDocs/Docker 🚢/Docker Compose.md": "SiDocker",
+  "MyTechDocs/Docker 🚢/macvlan.md": "BoBxNetworkChart",
+  "MyTechDocs/Docker 🚢/Timezone Database.md": "FarClock",
+  "MyTechDocs/Linux": "SiLinux",
+  "MyTechDocs/Windows": "SiWindows",
+  "MyTechDocs/MacOS VM.md": "SiApple",
+  "MyTechDocs/Vim": "SiVim",
+  "MyTechDocs/OracleMC": "SiOracle",
+  "MyTechDocs/Docker 🚢/Services 🔧/Homarr.md": "BoBxsDashboard",
+  "MyTechDocs/Docker 🚢/Services 🔧/Pocketbase.md": "SiPocketbase",
+  "MyTechDocs/Docker 🚢/Services 🔧/Windows Webtop.md": "SiWindowsxp",
+  "MyTechDocs/Docker 🚢/Services 🔧/Penpot.md": "SiPenpot",
+  "MyTechDocs/Docker 🚢/Services 🔧/Nextcloud.md": "SiNextcloud"
+}

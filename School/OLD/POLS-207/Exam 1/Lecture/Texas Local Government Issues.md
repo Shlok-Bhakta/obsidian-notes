@@ -1,0 +1,13 @@
+- Fringes 
+	- annexation 
+		- contentious 
+		- Texas cities have broad annexation powers
+- Urban flight
+	- reduces tax bases of large cities 
+	- wealthy suburbs
+	- resist annexation 
+	- ultra rich and poor remain in cities 
+- Local [[Politics]] 
+	- most elections nonpartisan with low turnout 
+- Elite Theory
+	- few people control local [[Politics]] 

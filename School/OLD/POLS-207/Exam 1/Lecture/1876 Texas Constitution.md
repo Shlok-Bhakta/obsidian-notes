@@ -1,0 +1,43 @@
+- amended (500+ amendments)
+- Executive decentralization and limited government
+- [[Constitution]] of 1876: 
+	- return of local control
+	- end of imposed Republican rule
+	- African-American disenfranchisement
+- second longest state [[Constitution]] (after Alabama)
+	- heavily amended 
+- Article 1: 
+	- [[Bill of Rights]] 
+	- indicates anti-government tone of document
+- Article 2:
+	- Powers of Government 
+	- explicit separation of powers 
+	- further demonstration of anti-government character of plan
+- Article 3
+	- Texas Legislature
+	- short session (meets every other year)
+	- low salary
+- Article 4
+	- Texas Executive
+	- originally short term (2 years; now 4)
+	- plural executive (most state executive of fiscals elected separately)
+- Article 5 
+	- Texas Judiciary 
+	- partisan elections
+	- Supreme Court and court of criminal appeals
+- Articles 6-16:
+	- suffrage
+	- education
+	- taxation
+	- counties
+	- railroads
+	- municipal corporations
+	- private corporations 
+	- Spanish and Mexica land titles
+	- public lands and land office
+	- impeachment
+	- general provisions
+- Articles 17:
+	- Amendment procedures
+	- legislative only
+	- no initiative

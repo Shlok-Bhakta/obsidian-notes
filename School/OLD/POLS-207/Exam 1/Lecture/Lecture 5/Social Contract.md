@@ -1,0 +1,10 @@
+- New secular version of government legitimacy
+- Popular Sovereignty and public Consent
+- Natural Law:
+	- set of principles inherent in nature that provide standard for judging legitimacy of written [[Laws]] 
+- Hobbes:
+	- Prevention of civil war by powerful sovereign
+- Locke: 
+	- liberty more important than security
+	- right of revolution
+	- Jefferson used Locke's theory in writing Declaration of Independence

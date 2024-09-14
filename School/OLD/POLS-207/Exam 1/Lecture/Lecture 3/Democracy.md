@@ -1,0 +1,1 @@
+## the vicious rule of the many poor in their interest against the few rich

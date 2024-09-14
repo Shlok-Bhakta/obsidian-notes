@@ -1,0 +1,11 @@
+[[Court Case]] 
+- national bank established in Maryland; Maryland wanted to tax it
+- Does congress have power to establish national bank?
+- Enumerated powers: 
+	- Coining money
+	- borrowing
+	- paying debts
+- Elastic Clause: Necessary and proper
+- Constitutional question: can a state tax a federal institution
+- Supremacy Clause: states cannot tax federal institutions
+- Net Effect: increase in federal power; decrease in power of states

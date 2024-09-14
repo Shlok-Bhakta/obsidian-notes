@@ -1,0 +1,31 @@
+- Colonial and Early American Society 
+	- Aristocratic, patriarchal, slaveholding (south)
+- Gradual Increase in Equality
+	- first among non-propertied whites (Andrew Jackson's Democratic Party)
+	- then African American males (13th -15th amendments; partial)
+	- then women (19th)
+- Radical Republican Reconstruction: 
+	- unsuccessful/short lived attempt to extend full citizenship to African Americans following [[Civil War]] 
+- 1875 Civil Rights Act: 
+	- last ditch attempt of Radical Republicans 
+	- ignored by president grant
+	- most parts declared unconstitutional by supreme court (1883) since 14th amendment cannot be applied to private actions
+	- southern states implemented actual segregation (white/colored-only public facilities)
+	- and disenfranchisement laws (poll taxes, literacy tests, grandfather clauses, etc.)
+- Plessy v. Ferguson (1896) 
+	- recognized legal segregation and disenfranchisement 
+	- 7-1 decision (mostly northern Americans)
+- Jim Crow [[Period]] (1876 - 1965)
+	- systematic legal disenfranchisement of Africans Americans in the south; practical marginalization of African Americans in North (in both cases African Americans were given the leavings of white society) 
+- Brown v. Board of Education (1954)
+	- overturned Plessy for public education 
+	- unanimous decision indicated changing American cultural consensus on minority rights 
+	- inspired much greater protest efforts by African Americans 
+- Civil rights act (1954)
+	- partially successful extension of full citizenship to African Americans 
+	- Inequality persists due to long history of representation 
+	- LBJ's leadership rewarded with African American voting loyalty (Obamas elections)
+- Voting Rights Act (1965): 
+	- real African American enfranchisement by direct federal supervision of Southern elections 
+	- partially successful
+	- African Americans still vote at lower rates than whites (ex: in Texas)

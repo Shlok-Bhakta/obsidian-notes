@@ -1,0 +1,9 @@
+- Rare in Texas
+- mostly for big cities
+	- Huston uses
+	- Dallas does not use
+- Voters elect mauor and city council
+- Mayor appoints department heads
+- Useful for cities that provide many services and need efficiency
+- Prone to incompetence and corruption
+	- high stakes and intense [[Politics]] 

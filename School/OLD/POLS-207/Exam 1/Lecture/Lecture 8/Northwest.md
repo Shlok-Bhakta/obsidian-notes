@@ -1,0 +1,3 @@
+- Individualistic and moralistic 
+- Environmentalist
+- strongly Democratic 

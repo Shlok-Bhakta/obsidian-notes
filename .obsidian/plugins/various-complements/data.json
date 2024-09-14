@@ -1,0 +1,139 @@
+{
+  "strategy": "default",
+  "cedictPath": "./cedict_ts.u8",
+  "matchStrategy": "prefix",
+  "fuzzyMatch": true,
+  "matchingWithoutEmoji": true,
+  "treatAccentDiacriticsAsAlphabeticCharacters": false,
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "disableOnMobile": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "Cloudflared": {
+      "Cloudflared": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1699591140022
+        }
+      }
+    },
+    "Texas Local Government Issues": {
+      "Texas Local Government Issues": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1699412202282
+        }
+      }
+    },
+    "Homarr": {
+      "Homarr": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1699290749897
+        }
+      }
+    },
+    "Docker Compose": {
+      "Docker Compose": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1701100384741
+        }
+      }
+    },
+    "Linux": {
+      "Linux": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1699305114749
+        }
+      }
+    },
+    "command": {
+      "command": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1699585284133
+        }
+      }
+    },
+    "Home Assistant": {
+      "Home Assistant": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1699591166667
+        }
+      }
+    },
+    "Portainer": {
+      "Portainer": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1699591173492
+        }
+      }
+    },
+    "Tailscale": {
+      "Tailscale": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1701049018859
+        }
+      }
+    }
+  }
+}

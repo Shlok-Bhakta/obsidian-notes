@@ -1,0 +1,20 @@
+- Enlightenment and [[Social Contract]] 
+	- Hobbes
+	- Locke
+	- Rousseau
+	- English [[Civil War]] 
+	- French Revolution
+	- first secular attempt to justify government
+- Mill:
+	- Ultilitarianism
+	- greatest good for greatest number
+- Marx: 
+	- materialism
+	- all previous [[Polity]] based on master/slave dielectric 
+	- Bolshevik Revolution
+- Nietsche 
+	- abandonment of all previous morality Nazis
+- WW1-2 and Cold War
+	- end of Christendom (WW1)
+	- perceived need for new scientific theory of politics
+	- victory of liberal democracy over fascism (WW2) and communism (Cold War)

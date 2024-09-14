@@ -1,0 +1,1 @@
+study how language changes over time within a culture and as it moves across cultures

@@ -1,0 +1,1 @@
+look at garbage areas to examine what our ancestors threw away, such as their technology.

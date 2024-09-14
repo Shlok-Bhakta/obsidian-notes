@@ -1,0 +1,22 @@
+## Preludes to the Civil War
+- Different Settlement Histories and Political Cultures
+- North: 
+	- Urban
+	- Manufacturing
+	- Egalitarian
+	- Progressive
+- South: 
+	- Rural
+	- Agrarian
+	- Hierarchical
+	- Conservative
+- Constitution ignored rift: 
+	- 3/5 Compromise was temporary fix; 
+	- Unstable
+- Tariffs: 
+	- helped North
+	- hurt South 
+	- Nullification debates
+- Early Secession Talk
+	- delayed by negotiation
+[[Dred Scott v. Sanford]] Decision and Lincoln's Election was the final straw
